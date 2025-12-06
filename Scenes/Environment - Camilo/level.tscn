@@ -1,8 +1,8 @@
 [gd_scene load_steps=10 format=4 uid="uid://b3rpw1a4h7np6"]
 
-[ext_resource type="Texture2D" uid="uid://d11ixfdynbe74" path="res://Assets/Environment - Camilo/Tile-set/Background/Background 01.png" id="1_iesdi"]
-[ext_resource type="Texture2D" uid="uid://cncvlwn7mta7o" path="res://Assets/Environment - Camilo/Tile-set/Ground/Ground tile set 00.png" id="2_6n8ds"]
-[ext_resource type="Texture2D" uid="uid://nb518kifuqtg" path="res://Assets/Environment - Camilo/Tile-set/Leaves, branches, bushes, etc/02.png" id="3_6n8ds"]
+[ext_resource type="Texture2D" uid="uid://d11ixfdynbe74" path="res://assets/Environment - Camilo/Tile-set/Background/Background 01.png" id="1_iesdi"]
+[ext_resource type="Texture2D" uid="uid://cncvlwn7mta7o" path="res://assets/Environment - Camilo/Tile-set/Ground/Ground tile set 00.png" id="2_6n8ds"]
+[ext_resource type="Texture2D" uid="uid://nb518kifuqtg" path="res://assets/Environment - Camilo/Tile-set/Leaves, branches, bushes, etc/02.png" id="3_6n8ds"]
 [ext_resource type="Script" uid="uid://vs24wamxqyt2" path="res://Scripts/SEnvironment - Camilo/player.gd" id="3_24jlc"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_81xng"]

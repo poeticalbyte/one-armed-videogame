@@ -1,0 +1,46 @@
+[gd_scene load_steps=5 format=3 uid="uid://814a6pxiutw6"]
+
+[ext_resource type="PackedScene" uid="uid://b3rpw1a4h7np6" path="res://Scenes/Environment - Camilo/level.tscn" id="1_rpak8"]
+[ext_resource type="Texture2D" uid="uid://frulndrp5rau" path="res://assets/sprites/05.png" id="2_epypp"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_0hol4"]
+atlas = ExtResource("2_epypp")
+region = Rect2(0, 0, 48, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_q6r6c"]
+atlas = ExtResource("2_epypp")
+region = Rect2(0, 0, 48, 32)
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Level" parent="." instance=ExtResource("1_rpak8")]
+
+[node name="CanvasLayer" type="CanvasLayer" parent="Level"]
+
+[node name="PanelContainer" type="PanelContainer" parent="Level/CanvasLayer"]
+offset_right = 40.0
+offset_bottom = 40.0
+size_flags_horizontal = 8
+
+[node name="MarginContainer" type="MarginContainer" parent="Level/CanvasLayer/PanelContainer"]
+layout_mode = 2
+theme_override_constants/margin_left = 2
+theme_override_constants/margin_top = 2
+theme_override_constants/margin_right = 2
+theme_override_constants/margin_bottom = 2
+
+[node name="GridContainer" type="GridContainer" parent="Level/CanvasLayer/PanelContainer/MarginContainer"]
+layout_mode = 2
+size_flags_horizontal = 4
+theme_override_constants/h_separation = 380
+columns = 2
+
+[node name="Life_P" type="TextureRect" parent="Level/CanvasLayer/PanelContainer/MarginContainer/GridContainer"]
+layout_mode = 2
+size_flags_horizontal = 4
+texture = SubResource("AtlasTexture_0hol4")
+
+[node name="Life_E" type="TextureRect" parent="Level/CanvasLayer/PanelContainer/MarginContainer/GridContainer"]
+layout_mode = 2
+texture = SubResource("AtlasTexture_q6r6c")
+flip_h = true
