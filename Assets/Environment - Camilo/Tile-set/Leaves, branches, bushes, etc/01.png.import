@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://vqx1kv77mj5f"
-path="res://.godot/imported/01.png-5fedbdb271efeaa4e2a7ec2ba7d871b7.ctex"
+path="res://.godot/imported/01.png-aa22916c51399fae40682a8f7f5be77d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Environment - Camilo/Tile-set/Leaves, branches, bushes, etc/01.png"
-dest_files=["res://.godot/imported/01.png-5fedbdb271efeaa4e2a7ec2ba7d871b7.ctex"]
+source_file="res://Assets/Environment - Camilo/Tile-set/Leaves, branches, bushes, etc/01.png"
+dest_files=["res://.godot/imported/01.png-aa22916c51399fae40682a8f7f5be77d.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dkh6360a12xjq"
-path="res://.godot/imported/lianas.png-2608d3dfa05da4db42f53e6272adfeb2.ctex"
+path="res://.godot/imported/lianas.png-76fcaa4f9cdad56c27fe2332669a8a70.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/Backgrounds/PNG/Battleground3/Pale/lianas.png"
-dest_files=["res://.godot/imported/lianas.png-2608d3dfa05da4db42f53e6272adfeb2.ctex"]
+source_file="res://Assets/sprites/Backgrounds/PNG/Battleground3/Pale/lianas.png"
+dest_files=["res://.godot/imported/lianas.png-76fcaa4f9cdad56c27fe2332669a8a70.ctex"]
 
 [params]
 

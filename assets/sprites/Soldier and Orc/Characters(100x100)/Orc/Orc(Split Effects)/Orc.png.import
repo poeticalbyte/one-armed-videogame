@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cmtxpnvwbyou8"
-path="res://.godot/imported/Orc.png-31da15b1d9804c3d1641edbaf23f12c1.ctex"
+path="res://.godot/imported/Orc.png-9e0a02b29cb01c5541e8a2f5f138755d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/Soldier and Orc/Characters(100x100)/Orc/Orc(Split Effects)/Orc.png"
-dest_files=["res://.godot/imported/Orc.png-31da15b1d9804c3d1641edbaf23f12c1.ctex"]
+source_file="res://Assets/sprites/Soldier and Orc/Characters(100x100)/Orc/Orc(Split Effects)/Orc.png"
+dest_files=["res://.godot/imported/Orc.png-9e0a02b29cb01c5541e8a2f5f138755d.ctex"]
 
 [params]
 

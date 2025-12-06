@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bfw2r0mvwalw4"
-path="res://.godot/imported/Soldier-Attack01.png-a15dd282cdfc62a06edcfa97e6aae46f.ctex"
+path="res://.godot/imported/Soldier-Attack01.png-c277062aaa0c1707956e1ba5a1f2c0f7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/Soldier and Orc/Characters(100x100)/Soldier/Soldier with shadows/Soldier-Attack01.png"
-dest_files=["res://.godot/imported/Soldier-Attack01.png-a15dd282cdfc62a06edcfa97e6aae46f.ctex"]
+source_file="res://Assets/sprites/Soldier and Orc/Characters(100x100)/Soldier/Soldier with shadows/Soldier-Attack01.png"
+dest_files=["res://.godot/imported/Soldier-Attack01.png-c277062aaa0c1707956e1ba5a1f2c0f7.ctex"]
 
 [params]
 

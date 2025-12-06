@@ -1,0 +1,552 @@
+[gd_resource type="SpriteFrames" load_steps=129 format=3 uid="uid://bcvxjeqyy3wmy"]
+
+[ext_resource type="Texture2D" uid="uid://cw6o1m0a7wx5x" path="res://Assets/enemy-Damarys/Individual Sprite/Death/Bringer-of-Death_Death_1.png" id="1_dxe58"]
+[ext_resource type="Texture2D" uid="uid://ctrygdwyegd6b" path="res://Assets/enemy-Damarys/Individual Sprite/Death/Bringer-of-Death_Death_2.png" id="2_a62sv"]
+[ext_resource type="Texture2D" uid="uid://dro0gdu5qxn1" path="res://Assets/enemy-Damarys/Individual Sprite/Death/Bringer-of-Death_Death_3.png" id="3_6cgcm"]
+[ext_resource type="Texture2D" uid="uid://bv88r4r36wifd" path="res://Assets/enemy-Damarys/Individual Sprite/Death/Bringer-of-Death_Death_4.png" id="4_6nd3w"]
+[ext_resource type="Texture2D" uid="uid://cf76ni80hj46v" path="res://Assets/enemy-Damarys/Individual Sprite/Death/Bringer-of-Death_Death_5.png" id="5_rotct"]
+[ext_resource type="Texture2D" uid="uid://ovrhtvqjy3mm" path="res://Assets/enemy-Damarys/Individual Sprite/Death/Bringer-of-Death_Death_6.png" id="6_u8f5w"]
+[ext_resource type="Texture2D" uid="uid://pbl26rjwid1y" path="res://Assets/enemy-Damarys/Individual Sprite/Death/Bringer-of-Death_Death_7.png" id="7_jpg7e"]
+[ext_resource type="Texture2D" uid="uid://1oatdianfs4w" path="res://Assets/enemy-Damarys/Individual Sprite/Death/Bringer-of-Death_Death_8.png" id="8_7u8x1"]
+[ext_resource type="Texture2D" uid="uid://bosu6evom76px" path="res://Assets/enemy-Damarys/Individual Sprite/Death/Bringer-of-Death_Death_9.png" id="9_iuvpf"]
+[ext_resource type="Texture2D" uid="uid://cl8nvrn10ilib" path="res://Assets/enemy-Damarys/Individual Sprite/Death/Bringer-of-Death_Death_10.png" id="10_pi3u4"]
+[ext_resource type="Texture2D" uid="uid://wlxc04rcdosr" path="res://Assets/enemy-Damarys/Individual Sprite/Hurt/Bringer-of-Death_Hurt_1.png" id="11_axdga"]
+[ext_resource type="Texture2D" uid="uid://fuqmhb5pvreu" path="res://Assets/enemy-Damarys/Individual Sprite/Hurt/Bringer-of-Death_Hurt_2.png" id="12_cwift"]
+[ext_resource type="Texture2D" uid="uid://dn1jymtxob0tw" path="res://Assets/enemy-Damarys/Individual Sprite/Hurt/Bringer-of-Death_Hurt_3.png" id="13_uko6g"]
+[ext_resource type="Texture2D" uid="uid://y3tpuavgxa73" path="res://Assets/enemy-Damarys/Individual Sprite/Attack/Bringer-of-Death_Attack_1.png" id="14_bfqyx"]
+[ext_resource type="Texture2D" uid="uid://bo1c5uqra7t3w" path="res://Assets/enemy-Damarys/Individual Sprite/Attack/Bringer-of-Death_Attack_2.png" id="15_jrd0h"]
+[ext_resource type="Texture2D" uid="uid://63dj4g4f3t8p" path="res://Assets/enemy-Damarys/Individual Sprite/Attack/Bringer-of-Death_Attack_3.png" id="16_cymnx"]
+[ext_resource type="Texture2D" uid="uid://bsnne208u35s0" path="res://Assets/enemy-Damarys/Individual Sprite/Attack/Bringer-of-Death_Attack_4.png" id="17_xaufh"]
+[ext_resource type="Texture2D" uid="uid://c81ynu25nkxae" path="res://Assets/enemy-Damarys/Individual Sprite/Attack/Bringer-of-Death_Attack_5.png" id="18_1vypl"]
+[ext_resource type="Texture2D" uid="uid://5nx0r7aoerov" path="res://Assets/enemy-Damarys/Individual Sprite/Attack/Bringer-of-Death_Attack_6.png" id="19_yufi1"]
+[ext_resource type="Texture2D" uid="uid://bkj1opltgjbmd" path="res://Assets/enemy-Damarys/Individual Sprite/Attack/Bringer-of-Death_Attack_7.png" id="20_u3lgr"]
+[ext_resource type="Texture2D" uid="uid://b7f67kid44uh3" path="res://Assets/enemy-Damarys/Individual Sprite/Attack/Bringer-of-Death_Attack_8.png" id="21_n58cs"]
+[ext_resource type="Texture2D" uid="uid://b4guedcpl1x2c" path="res://Assets/enemy-Damarys/Individual Sprite/Attack/Bringer-of-Death_Attack_9.png" id="22_fm7ft"]
+[ext_resource type="Texture2D" uid="uid://cmqdbyeop8c4c" path="res://Assets/enemy-Damarys/Individual Sprite/Attack/Bringer-of-Death_Attack_10.png" id="23_nhxuq"]
+[ext_resource type="Texture2D" uid="uid://bygda8bxyuruj" path="res://Assets/enemy-Damarys/Individual Sprite/Cast/Bringer-of-Death_Cast_1.png" id="24_akkkh"]
+[ext_resource type="Texture2D" uid="uid://b2ql868lveywm" path="res://Assets/enemy-Damarys/Individual Sprite/Cast/Bringer-of-Death_Cast_2.png" id="25_dnqog"]
+[ext_resource type="Texture2D" uid="uid://dbod5gcbsq23x" path="res://Assets/enemy-Damarys/Individual Sprite/Cast/Bringer-of-Death_Cast_3.png" id="26_e3nnc"]
+[ext_resource type="Texture2D" uid="uid://b6alsmo67s6tn" path="res://Assets/enemy-Damarys/Individual Sprite/Cast/Bringer-of-Death_Cast_4.png" id="27_1jatt"]
+[ext_resource type="Texture2D" uid="uid://di60jkxoi0gd8" path="res://Assets/enemy-Damarys/Individual Sprite/Cast/Bringer-of-Death_Cast_5.png" id="28_u5o8i"]
+[ext_resource type="Texture2D" uid="uid://ba4y5g2u3812c" path="res://Assets/enemy-Damarys/Individual Sprite/Cast/Bringer-of-Death_Cast_6.png" id="29_haofr"]
+[ext_resource type="Texture2D" uid="uid://dg5nbn78bdk8r" path="res://Assets/enemy-Damarys/Individual Sprite/Cast/Bringer-of-Death_Cast_7.png" id="30_p2ioi"]
+[ext_resource type="Texture2D" uid="uid://ghk44wgdh4ct" path="res://Assets/enemy-Damarys/Individual Sprite/Cast/Bringer-of-Death_Cast_8.png" id="31_nhcrt"]
+[ext_resource type="Texture2D" uid="uid://d2nef50jd275s" path="res://Assets/enemy-Damarys/Individual Sprite/Cast/Bringer-of-Death_Cast_9.png" id="32_do7f0"]
+[ext_resource type="Texture2D" uid="uid://bv8e02yljvjnf" path="res://Assets/enemy-Damarys/Individual Sprite/Idle/Bringer-of-Death_Idle_1.png" id="33_7h0vh"]
+[ext_resource type="Texture2D" uid="uid://b1ynenssgw8wg" path="res://Assets/enemy-Damarys/Individual Sprite/Idle/Bringer-of-Death_Idle_2.png" id="34_v7l3s"]
+[ext_resource type="Texture2D" uid="uid://cq4s1yopdhtul" path="res://Assets/enemy-Damarys/Individual Sprite/Idle/Bringer-of-Death_Idle_3.png" id="35_lr05c"]
+[ext_resource type="Texture2D" uid="uid://ywkuea22ju3p" path="res://Assets/enemy-Damarys/Individual Sprite/Idle/Bringer-of-Death_Idle_4.png" id="36_731bq"]
+[ext_resource type="Texture2D" uid="uid://dblfv4k5kkm83" path="res://Assets/enemy-Damarys/Individual Sprite/Idle/Bringer-of-Death_Idle_5.png" id="37_hvqrp"]
+[ext_resource type="Texture2D" uid="uid://dwphei0v7ovt6" path="res://Assets/enemy-Damarys/Individual Sprite/Idle/Bringer-of-Death_Idle_6.png" id="38_duvvl"]
+[ext_resource type="Texture2D" uid="uid://bbokopdlu12ao" path="res://Assets/enemy-Damarys/Individual Sprite/Idle/Bringer-of-Death_Idle_7.png" id="39_gh7q4"]
+[ext_resource type="Texture2D" uid="uid://yqhnt8e5ndur" path="res://Assets/enemy-Damarys/Individual Sprite/Idle/Bringer-of-Death_Idle_8.png" id="40_ltpj2"]
+[ext_resource type="Texture2D" uid="uid://binb2sk4pmv18" path="res://Assets/enemy-Damarys/Individual Sprite/Spell/Bringer-of-Death_Spell_1.png" id="41_8ywor"]
+[ext_resource type="Texture2D" uid="uid://cln1vj1bwm0gt" path="res://Assets/enemy-Damarys/Individual Sprite/Spell/Bringer-of-Death_Spell_2.png" id="42_g3ptv"]
+[ext_resource type="Texture2D" uid="uid://cbu7brnxnep22" path="res://Assets/enemy-Damarys/Individual Sprite/Spell/Bringer-of-Death_Spell_3.png" id="43_rcwrj"]
+[ext_resource type="Texture2D" uid="uid://byh8h7nftofsr" path="res://Assets/enemy-Damarys/Individual Sprite/Spell/Bringer-of-Death_Spell_4.png" id="44_aa1h1"]
+[ext_resource type="Texture2D" uid="uid://c1qtffh8ns4gl" path="res://Assets/enemy-Damarys/Individual Sprite/Spell/Bringer-of-Death_Spell_5.png" id="45_uqk51"]
+[ext_resource type="Texture2D" uid="uid://d0iob3oe7pya3" path="res://Assets/enemy-Damarys/Individual Sprite/Spell/Bringer-of-Death_Spell_6.png" id="46_e0lg5"]
+[ext_resource type="Texture2D" uid="uid://chbvn5i5hbs36" path="res://Assets/enemy-Damarys/Individual Sprite/Spell/Bringer-of-Death_Spell_7.png" id="47_cj3sp"]
+[ext_resource type="Texture2D" uid="uid://cy4wxh5kw0ek0" path="res://Assets/enemy-Damarys/Individual Sprite/Spell/Bringer-of-Death_Spell_8.png" id="48_lrab3"]
+[ext_resource type="Texture2D" uid="uid://c0u3s56b152rl" path="res://Assets/enemy-Damarys/Individual Sprite/Spell/Bringer-of-Death_Spell_9.png" id="49_2xt6i"]
+[ext_resource type="Texture2D" uid="uid://nwbl2bbvpgg2" path="res://Assets/enemy-Damarys/Individual Sprite/Spell/Bringer-of-Death_Spell_10.png" id="50_bwjcp"]
+[ext_resource type="Texture2D" uid="uid://dpd83m35sykfu" path="res://Assets/enemy-Damarys/Individual Sprite/Spell/Bringer-of-Death_Spell_11.png" id="51_4ivod"]
+[ext_resource type="Texture2D" uid="uid://boncr06hgi8nu" path="res://Assets/enemy-Damarys/Individual Sprite/Spell/Bringer-of-Death_Spell_12.png" id="52_hbint"]
+[ext_resource type="Texture2D" uid="uid://m4qs3txbug1d" path="res://Assets/enemy-Damarys/Individual Sprite/Spell/Bringer-of-Death_Spell_13.png" id="53_r5mgp"]
+[ext_resource type="Texture2D" uid="uid://87ex0ry05q4f" path="res://Assets/enemy-Damarys/Individual Sprite/Spell/Bringer-of-Death_Spell_14.png" id="54_q8jdp"]
+[ext_resource type="Texture2D" uid="uid://bg7dsak5cqpah" path="res://Assets/enemy-Damarys/Individual Sprite/Spell/Bringer-of-Death_Spell_15.png" id="55_7auo3"]
+[ext_resource type="Texture2D" uid="uid://ddmyaftt7oy5j" path="res://Assets/enemy-Damarys/Individual Sprite/Spell/Bringer-of-Death_Spell_16.png" id="56_eufsg"]
+[ext_resource type="Texture2D" uid="uid://h5r23xe3gilp" path="res://Assets/enemy-Damarys/Individual Sprite/Walk/Bringer-of-Death_Walk_1.png" id="57_fltds"]
+[ext_resource type="Texture2D" uid="uid://dnclhvy8vbbt7" path="res://Assets/enemy-Damarys/Individual Sprite/Walk/Bringer-of-Death_Walk_2.png" id="58_3wvqb"]
+[ext_resource type="Texture2D" uid="uid://blxnyom656j1j" path="res://Assets/enemy-Damarys/Individual Sprite/Walk/Bringer-of-Death_Walk_3.png" id="59_2l5e8"]
+[ext_resource type="Texture2D" uid="uid://dyniqglbt46j4" path="res://Assets/enemy-Damarys/Individual Sprite/Walk/Bringer-of-Death_Walk_4.png" id="60_g1x0k"]
+[ext_resource type="Texture2D" uid="uid://bqx2qkbsbllo8" path="res://Assets/enemy-Damarys/Individual Sprite/Walk/Bringer-of-Death_Walk_5.png" id="61_a23ub"]
+[ext_resource type="Texture2D" uid="uid://ca8l7wtmt35ae" path="res://Assets/enemy-Damarys/Individual Sprite/Walk/Bringer-of-Death_Walk_6.png" id="62_ieogj"]
+[ext_resource type="Texture2D" uid="uid://dj03isskc1das" path="res://Assets/enemy-Damarys/Individual Sprite/Walk/Bringer-of-Death_Walk_7.png" id="63_ebl6m"]
+[ext_resource type="Texture2D" uid="uid://co2wd6sxx0fxi" path="res://Assets/enemy-Damarys/Individual Sprite/Walk/Bringer-of-Death_Walk_8.png" id="64_820dq"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_oshv4"]
+atlas = ExtResource("1_dxe58")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_n38cf"]
+atlas = ExtResource("2_a62sv")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_pxesh"]
+atlas = ExtResource("3_6cgcm")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_5pb6v"]
+atlas = ExtResource("4_6nd3w")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_s8p2k"]
+atlas = ExtResource("5_rotct")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_sm02y"]
+atlas = ExtResource("6_u8f5w")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_poikj"]
+atlas = ExtResource("7_jpg7e")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_jptc0"]
+atlas = ExtResource("8_7u8x1")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_0fard"]
+atlas = ExtResource("9_iuvpf")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_nrodf"]
+atlas = ExtResource("10_pi3u4")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_xvp0q"]
+atlas = ExtResource("11_axdga")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_cjsar"]
+atlas = ExtResource("12_cwift")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_qn3cx"]
+atlas = ExtResource("13_uko6g")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_a0kkn"]
+atlas = ExtResource("14_bfqyx")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_qub1y"]
+atlas = ExtResource("15_jrd0h")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_xmguk"]
+atlas = ExtResource("16_cymnx")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_ik52w"]
+atlas = ExtResource("17_xaufh")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_xxp71"]
+atlas = ExtResource("18_1vypl")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_o2txh"]
+atlas = ExtResource("19_yufi1")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_6jhml"]
+atlas = ExtResource("20_u3lgr")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_qvwd5"]
+atlas = ExtResource("21_n58cs")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_ybhfb"]
+atlas = ExtResource("22_fm7ft")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_puf4m"]
+atlas = ExtResource("23_nhxuq")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_jkty3"]
+atlas = ExtResource("24_akkkh")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_u2mrk"]
+atlas = ExtResource("25_dnqog")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_0mvhj"]
+atlas = ExtResource("26_e3nnc")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_f58bf"]
+atlas = ExtResource("27_1jatt")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_lpynl"]
+atlas = ExtResource("28_u5o8i")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_xdoe4"]
+atlas = ExtResource("29_haofr")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_inpvh"]
+atlas = ExtResource("30_p2ioi")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_fd5h7"]
+atlas = ExtResource("31_nhcrt")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_ouavo"]
+atlas = ExtResource("32_do7f0")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_kfn2x"]
+atlas = ExtResource("33_7h0vh")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_rrdlm"]
+atlas = ExtResource("34_v7l3s")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_envkd"]
+atlas = ExtResource("35_lr05c")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_ohvx3"]
+atlas = ExtResource("36_731bq")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_uudaw"]
+atlas = ExtResource("37_hvqrp")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_2as66"]
+atlas = ExtResource("38_duvvl")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_modo6"]
+atlas = ExtResource("39_gh7q4")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_qr32h"]
+atlas = ExtResource("40_ltpj2")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_ry8ry"]
+atlas = ExtResource("41_8ywor")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_to2le"]
+atlas = ExtResource("42_g3ptv")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_urnf5"]
+atlas = ExtResource("43_rcwrj")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_cv8ip"]
+atlas = ExtResource("44_aa1h1")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_tpq6l"]
+atlas = ExtResource("45_uqk51")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_doyaa"]
+atlas = ExtResource("46_e0lg5")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_gfcru"]
+atlas = ExtResource("47_cj3sp")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_u0276"]
+atlas = ExtResource("48_lrab3")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_l1taw"]
+atlas = ExtResource("49_2xt6i")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_omx00"]
+atlas = ExtResource("50_bwjcp")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_7tii1"]
+atlas = ExtResource("51_4ivod")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_qo5v7"]
+atlas = ExtResource("52_hbint")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_mp5oj"]
+atlas = ExtResource("53_r5mgp")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_us5yh"]
+atlas = ExtResource("54_q8jdp")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_u3q82"]
+atlas = ExtResource("55_7auo3")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_l3jqg"]
+atlas = ExtResource("56_eufsg")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_ssoi8"]
+atlas = ExtResource("57_fltds")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_pgx37"]
+atlas = ExtResource("58_3wvqb")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_gkv3v"]
+atlas = ExtResource("59_2l5e8")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_mp7ds"]
+atlas = ExtResource("60_g1x0k")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_j6ntf"]
+atlas = ExtResource("61_a23ub")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_f35m3"]
+atlas = ExtResource("62_ieogj")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_1pfni"]
+atlas = ExtResource("63_ebl6m")
+region = Rect2(0, 0, 140, 93)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_tgqfq"]
+atlas = ExtResource("64_820dq")
+region = Rect2(0, 0, 140, 93)
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_oshv4")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_n38cf")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_pxesh")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_5pb6v")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_s8p2k")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_sm02y")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_poikj")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_jptc0")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_0fard")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_nrodf")
+}],
+"loop": true,
+"name": &"Death",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_xvp0q")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_cjsar")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_qn3cx")
+}],
+"loop": true,
+"name": &"Hurt",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_a0kkn")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_qub1y")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_xmguk")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_ik52w")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_xxp71")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_o2txh")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_6jhml")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_qvwd5")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_ybhfb")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_puf4m")
+}],
+"loop": true,
+"name": &"attack",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_jkty3")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_u2mrk")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_0mvhj")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_f58bf")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_lpynl")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_xdoe4")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_inpvh")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_fd5h7")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_ouavo")
+}],
+"loop": true,
+"name": &"cast",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_kfn2x")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_rrdlm")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_envkd")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_ohvx3")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_uudaw")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_2as66")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_modo6")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_qr32h")
+}],
+"loop": true,
+"name": &"idle",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_ry8ry")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_to2le")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_urnf5")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_cv8ip")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_tpq6l")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_doyaa")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_gfcru")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_u0276")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_l1taw")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_omx00")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_7tii1")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_qo5v7")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_mp5oj")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_us5yh")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_u3q82")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_l3jqg")
+}],
+"loop": true,
+"name": &"spell",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_ssoi8")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_pgx37")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_gkv3v")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_mp7ds")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_j6ntf")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_f35m3")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_1pfni")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_tgqfq")
+}],
+"loop": true,
+"name": &"walk",
+"speed": 5.0
+}]

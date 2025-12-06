@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b4hxsj6xu83ts"
-path="res://.godot/imported/Trunk 07.png-42c4b7279363536261a03cfcc6f5d69e.ctex"
+path="res://.godot/imported/Trunk 07.png-e8bdff1000303ad47176decefd76f72c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Environment - Camilo/Tile-set/Trunks/Trunk 07.png"
-dest_files=["res://.godot/imported/Trunk 07.png-42c4b7279363536261a03cfcc6f5d69e.ctex"]
+source_file="res://Assets/Environment - Camilo/Tile-set/Trunks/Trunk 07.png"
+dest_files=["res://.godot/imported/Trunk 07.png-e8bdff1000303ad47176decefd76f72c.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://y8s4wslypja3"
-path="res://.godot/imported/fireflys.png-80e00c2e95ea1231aaec0903b244b7c1.ctex"
+path="res://.godot/imported/fireflys.png-326c9170740582cb3993764878c95d28.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/Backgrounds/PNG/Battleground3/Bright/fireflys.png"
-dest_files=["res://.godot/imported/fireflys.png-80e00c2e95ea1231aaec0903b244b7c1.ctex"]
+source_file="res://Assets/sprites/Backgrounds/PNG/Battleground3/Bright/fireflys.png"
+dest_files=["res://.godot/imported/fireflys.png-326c9170740582cb3993764878c95d28.ctex"]
 
 [params]
 

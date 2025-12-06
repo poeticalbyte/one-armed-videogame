@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://xjubfkdpv82f"
-path="res://.godot/imported/mountaims.png-761a4af709f4c919a1215ceb84553b5a.ctex"
+path="res://.godot/imported/mountaims.png-0490eb7aaf074db632623810b8bc0bc2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/Backgrounds/PNG/Battleground2/Bright/mountaims.png"
-dest_files=["res://.godot/imported/mountaims.png-761a4af709f4c919a1215ceb84553b5a.ctex"]
+source_file="res://Assets/sprites/Backgrounds/PNG/Battleground2/Bright/mountaims.png"
+dest_files=["res://.godot/imported/mountaims.png-0490eb7aaf074db632623810b8bc0bc2.ctex"]
 
 [params]
 

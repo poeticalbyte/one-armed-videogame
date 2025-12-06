@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dabe4p3xdlwej"
-path="res://.godot/imported/Ground tile set 02.png-11f0a92a2451ebbd8538a3e69fa6edb5.ctex"
+path="res://.godot/imported/Ground tile set 02.png-3ef477e203c96aed70bb959bdcac6a80.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Environment - Camilo/Tile-set/Ground/Ground tile set 02.png"
-dest_files=["res://.godot/imported/Ground tile set 02.png-11f0a92a2451ebbd8538a3e69fa6edb5.ctex"]
+source_file="res://Assets/Environment - Camilo/Tile-set/Ground/Ground tile set 02.png"
+dest_files=["res://.godot/imported/Ground tile set 02.png-3ef477e203c96aed70bb959bdcac6a80.ctex"]
 
 [params]
 
