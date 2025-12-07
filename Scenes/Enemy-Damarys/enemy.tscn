@@ -1,23 +1,33 @@
-[gd_scene load_steps=4 format=3 uid="uid://cgttoaobb3565"]
+[gd_scene load_steps=5 format=3 uid="uid://cgttoaobb3565"]
 
-[ext_resource type="Script" uid="uid://cr6hjxmxex6w5" path="res://Scripts/enemy.gd" id="1_nydve"]
+[ext_resource type="Script" uid="uid://l0ccqqjapr7e" path="res://Scripts/Enemy-Damarys/enemy.gd" id="1_nydve"]
 [ext_resource type="SpriteFrames" uid="uid://bcvxjeqyy3wmy" path="res://Scenes/Enemy-Damarys/enemy.tres" id="1_wwp11"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_ojc7g"]
 size = Vector2(57.99781, 38.379818)
 
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_nydve"]
+size = Vector2(79, 89)
+
 [node name="Enemy" type="CharacterBody2D"]
 script = ExtResource("1_nydve")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-position = Vector2(410, 211.99998)
+position = Vector2(420, 209.99998)
 scale = Vector2(2.4517858, 2.3454301)
 shape = SubResource("RectangleShape2D_ojc7g")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 texture_filter = 1
-position = Vector2(410, 207)
+position = Vector2(418, 210.99998)
 scale = Vector2(1.0285715, 0.9905917)
 sprite_frames = ExtResource("1_wwp11")
 animation = &"walk"
 frame_progress = 0.34174317
+
+[node name="Area2D" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
+position = Vector2(407.5, 210.5)
+shape = SubResource("RectangleShape2D_nydve")
+debug_color = Color(0.58188796, 0.40523773, 0.950831, 0.41960785)

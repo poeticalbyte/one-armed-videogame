@@ -1,7 +1,7 @@
 [gd_scene load_steps=5 format=3 uid="uid://814a6pxiutw6"]
 
 [ext_resource type="PackedScene" uid="uid://b3rpw1a4h7np6" path="res://Scenes/Environment - Camilo/level.tscn" id="1_rpak8"]
-[ext_resource type="Texture2D" uid="uid://frulndrp5rau" path="res://assets/sprites/05.png" id="2_epypp"]
+[ext_resource type="Texture2D" uid="uid://frulndrp5rau" path="res://Assets/sprites/05.png" id="2_epypp"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_0hol4"]
 atlas = ExtResource("2_epypp")
