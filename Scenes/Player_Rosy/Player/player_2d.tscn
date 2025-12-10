@@ -1,0 +1,10 @@
+[gd_scene load_steps=3 format=3 uid="uid://bldt03n64g5g"]
+
+[ext_resource type="PackedScene" uid="uid://b3rpw1a4h7np6" path="res://Scenes/Environment - Camilo/level.tscn" id="1_aaetx"]
+[ext_resource type="PackedScene" uid="uid://bbjl8vlmucurx" path="res://Scenes/Player_Rosy/Player/character_body_2d.tscn" id="2_1h2ms"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Level" parent="." instance=ExtResource("1_aaetx")]
+
+[node name="CharacterBody2D" parent="Level" instance=ExtResource("2_1h2ms")]
