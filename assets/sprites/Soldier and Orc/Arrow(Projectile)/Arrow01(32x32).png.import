@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bpk5yi0x6ugg4"
-path="res://.godot/imported/Arrow01(32x32).png-59f04e3f1a12ec4c88586a75a7f2dd65.ctex"
+path="res://.godot/imported/Arrow01(32x32).png-b6891992cda6adcb6f575ebc06155e3d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/sprites/Soldier and Orc/Arrow(Projectile)/Arrow01(32x32).png"
-dest_files=["res://.godot/imported/Arrow01(32x32).png-59f04e3f1a12ec4c88586a75a7f2dd65.ctex"]
+source_file="res://assets/sprites/Soldier and Orc/Arrow(Projectile)/Arrow01(32x32).png"
+dest_files=["res://.godot/imported/Arrow01(32x32).png-b6891992cda6adcb6f575ebc06155e3d.ctex"]
 
 [params]
 

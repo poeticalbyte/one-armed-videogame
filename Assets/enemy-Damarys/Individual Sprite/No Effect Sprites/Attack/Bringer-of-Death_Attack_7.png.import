@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c2wi4xjdpea0y"
-path="res://.godot/imported/Bringer-of-Death_Attack_7.png-826c2c9a08b649290c4e295a3454b6b6.ctex"
+path="res://.godot/imported/Bringer-of-Death_Attack_7.png-c9382d04fa69ed147408beb908a1c53e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/enemy-Damarys/Individual Sprite/No Effect Sprites/Attack/Bringer-of-Death_Attack_7.png"
-dest_files=["res://.godot/imported/Bringer-of-Death_Attack_7.png-826c2c9a08b649290c4e295a3454b6b6.ctex"]
+source_file="res://assets/enemy-Damarys/Individual Sprite/No Effect Sprites/Attack/Bringer-of-Death_Attack_7.png"
+dest_files=["res://.godot/imported/Bringer-of-Death_Attack_7.png-c9382d04fa69ed147408beb908a1c53e.ctex"]
 
 [params]
 

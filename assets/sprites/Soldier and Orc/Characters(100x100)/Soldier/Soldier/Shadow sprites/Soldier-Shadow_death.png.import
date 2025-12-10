@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bf6cricn10b5x"
-path="res://.godot/imported/Soldier-Shadow_death.png-80caabb18def1c9cd42617be7681a5d5.ctex"
+path="res://.godot/imported/Soldier-Shadow_death.png-09d03f7a1c653e4e7e75f6bec2aecb14.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/sprites/Soldier and Orc/Characters(100x100)/Soldier/Soldier/Shadow sprites/Soldier-Shadow_death.png"
-dest_files=["res://.godot/imported/Soldier-Shadow_death.png-80caabb18def1c9cd42617be7681a5d5.ctex"]
+source_file="res://assets/sprites/Soldier and Orc/Characters(100x100)/Soldier/Soldier/Shadow sprites/Soldier-Shadow_death.png"
+dest_files=["res://.godot/imported/Soldier-Shadow_death.png-09d03f7a1c653e4e7e75f6bec2aecb14.ctex"]
 
 [params]
 
