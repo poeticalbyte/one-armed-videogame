@@ -6,7 +6,5 @@
 [node name="Node2D" type="Node2D"]
 
 [node name="Level" parent="." instance=ExtResource("1_aaetx")]
-position = Vector2(74, 22)
 
 [node name="CharacterBody2D" parent="Level" instance=ExtResource("2_1h2ms")]
-position = Vector2(-23, 45)
