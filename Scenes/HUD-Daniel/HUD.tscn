@@ -1,0 +1,25 @@
+[gd_scene load_steps=5 format=3 uid="uid://814a6pxiutw6"]
+
+[ext_resource type="PackedScene" uid="uid://b3rpw1a4h7np6" path="res://Scenes/Environment - Camilo/level.tscn" id="1_rpak8"]
+[ext_resource type="Texture2D" uid="uid://bju6q1j7q6jdg" path="res://Assets/sprites/Life-bar/marcon con relleno.png" id="2_2sj7p"]
+[ext_resource type="Texture2D" uid="uid://jpwj1h4unxuw" path="res://Assets/sprites/Life-bar/marco vacio.png" id="3_16v5g"]
+[ext_resource type="Texture2D" uid="uid://c4echvbvb463b" path="res://Assets/sprites/Life-bar/marco completo.png" id="4_ji5q5"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="HUD" parent="." instance=ExtResource("1_rpak8")]
+
+[node name="CanvasLayer" type="CanvasLayer" parent="HUD"]
+
+[node name="Texture-prog-player" type="TextureProgressBar" parent="HUD/CanvasLayer"]
+offset_top = -28.0
+offset_right = 100.0
+offset_bottom = 72.0
+value = 50.0
+texture_under = ExtResource("2_2sj7p")
+texture_over = ExtResource("3_16v5g")
+texture_progress = ExtResource("4_ji5q5")
+
+[node name="ProgressBar" type="ProgressBar" parent="HUD/CanvasLayer"]
+offset_right = 4.0
+offset_bottom = 27.0
