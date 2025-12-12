@@ -1,4 +1,4 @@
-[gd_scene load_steps=15 format=3 uid="uid://bbjl8vlmucurx"]
+[gd_scene load_steps=16 format=3 uid="uid://bbjl8vlmucurx"]
 
 [ext_resource type="Texture2D" uid="uid://tumc5k8b3m4o" path="res://Assets/Player_Rosy/Undead Sprite Pack/Undead Sprite Pack/SHEETS/undead_idle_sheet.png" id="1_e5d3n"]
 [ext_resource type="Script" uid="uid://drv226i4nygrd" path="res://Scenes/Player_Rosy/Player/playermovimi.gd" id="1_pe4dr"]
@@ -11,7 +11,8 @@ load_path = "res://.godot/imported/undead_walk_sheet.png-7c69df6a4eeec6d444489d9
 
 [sub_resource type="Animation" id="Animation_ui8k8"]
 resource_name = "Attack"
-loop_mode = 1
+length = 0.8
+step = 0.3333
 tracks/0/type = "value"
 tracks/0/imported = false
 tracks/0/enabled = true
@@ -43,15 +44,14 @@ tracks/2/path = NodePath("Sprite2D:frame")
 tracks/2/interp = 1
 tracks/2/loop_wrap = true
 tracks/2/keys = {
-"times": PackedFloat32Array(0, 0.033333335, 0.06666667, 0.10000001, 0.13333334, 0.16666667, 0.20000002, 0.23333335, 0.26666668, 0.3, 0.33333334, 0.36666667, 0.40000004, 0.43333337, 0.4666667, 0.5, 0.53333336, 0.5666667, 0.6, 0.6666667),
-"transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1),
+"times": PackedFloat32Array(0, 0.033333335, 0.06666667, 0.10000001, 0.13333334, 0.16666667, 0.20000002, 0.23333335, 0.26666668, 0.3, 0.33333334, 0.36666667, 0.40000004),
+"transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1),
 "update": 1,
-"values": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 18]
+"values": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
 }
 
 [sub_resource type="Animation" id="Animation_pe4dr"]
 resource_name = "Death"
-loop_mode = 1
 tracks/0/type = "value"
 tracks/0/imported = false
 tracks/0/enabled = true
@@ -91,7 +91,6 @@ tracks/2/keys = {
 
 [sub_resource type="Animation" id="Animation_kmsn2"]
 resource_name = "Idle"
-loop_mode = 1
 tracks/0/type = "value"
 tracks/0/imported = false
 tracks/0/enabled = true
@@ -170,7 +169,6 @@ tracks/2/keys = {
 
 [sub_resource type="Animation" id="Animation_q2ayx"]
 resource_name = "hurt"
-loop_mode = 1
 tracks/0/type = "value"
 tracks/0/imported = false
 tracks/0/enabled = true
@@ -258,7 +256,10 @@ _data = {
 }
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_2n6ms"]
-size = Vector2(32, 25)
+size = Vector2(21, 25)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_pe4dr"]
+size = Vector2(8.943914, 29)
 
 [node name="CharacterBody2D" type="CharacterBody2D"]
 script = ExtResource("1_pe4dr")
@@ -274,8 +275,21 @@ libraries = {
 }
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-position = Vector2(85, 187)
+position = Vector2(89, 187)
 shape = SubResource("RectangleShape2D_2n6ms")
 
 [node name="Camera2D" type="Camera2D" parent="."]
-position = Vector2(242, 135)
+position = Vector2(244, 136)
+
+[node name="Area2D" type="Area2D" parent="."]
+position = Vector2(106, 188)
+disable_mode = 1
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
+position = Vector2(-2, 0)
+rotation = -0.01820005
+scale = Vector2(0.99999976, 0.99999976)
+shape = SubResource("RectangleShape2D_pe4dr")
+disabled = true
+
+[connection signal="body_entered" from="Area2D" to="." method="_on_area_2d_body_entered"]
