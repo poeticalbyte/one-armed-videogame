@@ -28,6 +28,6 @@ frame_progress = 0.34174317
 [node name="Area2D" type="Area2D" parent="."]
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
-position = Vector2(407.5, 210.5)
+position = Vector2(387, 208)
 shape = SubResource("RectangleShape2D_nydve")
 debug_color = Color(0.58188796, 0.40523773, 0.950831, 0.41960785)
